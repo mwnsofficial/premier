@@ -1,0 +1,9 @@
+proxies:
+- name: akun2
+  type: trojan
+  server: sg1-trojan.bonds.id
+  port: 443
+  password: aacf9080-85df-11ed-b42b-1239d0255272
+  udp: true
+  sni: meet.google.com
+  skip-cert-verify: true
